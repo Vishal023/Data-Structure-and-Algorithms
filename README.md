@@ -5,3 +5,5 @@ Java Solution for Data Structures and Alogrithms.
 BEFORE RUNNING ANY OF THE CODE REMOVE THIS FROM THE TOP OF THE CODE
 
     package SummerTrainingGFG.______;
+### NOTE
+Raise an issue if any program doesn't work as it should work
