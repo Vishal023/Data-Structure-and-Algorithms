@@ -48,6 +48,9 @@ public class GetTheShadow {
             int b;//repeating number
             int a;//missing number
             int set[] = new int[n];
+            /*
+            * yet to do
+            * */
             for (int i = 0; i < n; i++) {
                 set[i] = i+1;
             }
