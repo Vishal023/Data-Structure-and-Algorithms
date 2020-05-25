@@ -3,6 +3,8 @@ package SummerTrainingGFG.Arrays;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.*;
+
 /**
  *@author Vishal Singh */
 /*
@@ -29,6 +31,17 @@ public class FrequenciesOfLimitedRangeArrayElements {
             for (int i = 0; i < n; i++) {
                 System.out.print(temp[i]+" ");
             }
+            /*              USING ARRAY LIST         */
+            ArrayList<Integer> a= new ArrayList<Integer>(n);
+            for (int i = 0; i < n ; i++) {
+                a.add(0);
+            }
+            for (int i = 0; i < n ; i++) {
+                int index = arr[i] -1;
+                int element = a.get(index)+1;
+                a.set(index,element);
+            }
+            System.out.println(a);
         }
     }
 }
