@@ -2,9 +2,12 @@ package SummerTrainingGFG.Arrays;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
+
+
+/**
+ * @author Vishal Singh */
 
 public class MinAdjacentDifferenceCircularArray {
     static class FastReader{

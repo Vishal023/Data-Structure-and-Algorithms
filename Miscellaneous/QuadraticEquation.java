@@ -1,6 +1,8 @@
 package SummerTrainingGFG.Miscellaneous;
 
 //User function Template for Java
+/**
+ * @author Vishal Singh */
 
 public class QuadraticEquation
 {

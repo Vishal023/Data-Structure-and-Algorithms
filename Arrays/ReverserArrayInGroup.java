@@ -1,6 +1,8 @@
 package SummerTrainingGFG.Arrays;
 
 import java.util.ArrayList;
+/**
+ * @author Vishal Singh */
 
 public class ReverserArrayInGroup {
     public static ArrayList<Integer> reverseInGroups(ArrayList<Integer> mv, int n, int k) {

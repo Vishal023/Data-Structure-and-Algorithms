@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class SubsetSumArray {
     static int subSetSum(int[] arr, int n, int sum){
         if (n == 0){

@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class SubsetOfString {
     static void subset(String str, String curr, int index){
         if (index == str.length()){

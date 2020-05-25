@@ -1,6 +1,8 @@
 package SummerTrainingGFG.Miscellaneous;
 
 import java.math.BigInteger;
+/**
+ * @author Vishal Singh */
 
 public class FactorialDigits {
     static BigInteger fact(BigInteger num){

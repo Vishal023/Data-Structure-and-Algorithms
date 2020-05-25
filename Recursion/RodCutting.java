@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class RodCutting {
     static int maxCuts(int n,int a,int b,int c){
 

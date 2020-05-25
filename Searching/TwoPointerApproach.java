@@ -1,11 +1,12 @@
 package SummerTrainingGFG.Searching;
 
-import java.util.HashMap;
-
 /**
- * Given a sorted array and a sum find if there is a pair with given sum*/
-class PairSum{
+ * @author Vishal Singh */
 
+/*
+ * Given a sorted array and a sum find if there is a pair with given sum*/
+
+class PairSum{
     boolean findPairSumExistence(int[] arr, int sum){
         int left = 0;
         int right = arr.length-1;

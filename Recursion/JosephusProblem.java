@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class JosephusProblem {
     static int kill(int n, int k){
         if (n == 1){

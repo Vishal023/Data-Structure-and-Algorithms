@@ -1,4 +1,6 @@
 package SummerTrainingGFG.Arrays;
+/**
+ * @author Vishal Singh */
 
 public class RotateArray {
     static void reverse(int arr[],int low,int high){

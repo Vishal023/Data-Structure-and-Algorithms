@@ -1,4 +1,6 @@
 package SummerTrainingGFG.Mathematics;
+/**
+ * @author Vishal Singh */
 
 public class LastTermOfGP {
     public static void main(String[] args) {

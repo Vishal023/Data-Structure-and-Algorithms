@@ -1,4 +1,7 @@
 package SummerTrainingGFG.Arrays;
+/**
+ * @author Vishal Singh */
+
 public class StrongestNeighbour {
 
     static void maximumAdjacent(int sizeOfArray, int[] arr){

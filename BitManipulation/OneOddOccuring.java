@@ -1,4 +1,6 @@
 package SummerTrainingGFG.BitManipulation;
+/**
+ * @author Vishal Singh */
 
 public class OneOddOccuring {
     public static void main(String[] args) {

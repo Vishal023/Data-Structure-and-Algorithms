@@ -1,4 +1,6 @@
 package SummerTrainingGFG.Miscellaneous;
+/**
+ * @author Vishal Singh */
 
 public class NaturalNumbers {
     static int sum(int n){

@@ -1,4 +1,6 @@
 package SummerTrainingGFG.BitManipulation;
+/**
+ * @author Vishal Singh */
 
 public class LogBase2 {
     //only for 32 bit

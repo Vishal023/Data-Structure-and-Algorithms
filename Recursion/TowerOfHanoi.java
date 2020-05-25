@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class TowerOfHanoi {
     static void tower(int n,char a,char b,char c){
         if (n == 1){

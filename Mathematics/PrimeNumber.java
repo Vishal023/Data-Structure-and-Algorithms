@@ -1,4 +1,6 @@
 package SummerTrainingGFG.Mathematics;
+/**
+ * @author Vishal Singh */
 
 public class PrimeNumber {
     static boolean isPrime(int n){

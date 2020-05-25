@@ -1,4 +1,6 @@
 package SummerTrainingGFG.BitManipulation;
+/**
+ * @author Vishal Singh */
 
 public class LongestConsecutiveOnes {
     static int maxConsecutiveOnes(int x) {

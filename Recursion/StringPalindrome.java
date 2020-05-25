@@ -1,5 +1,6 @@
 package SummerTrainingGFG.Recursion;
-
+/**
+ * @author Vishal Singh */
 public class StringPalindrome {
     static boolean isPalindrome(String str,int start,int end){
         if (start>end){

@@ -2,8 +2,9 @@ package SummerTrainingGFG.Contest;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Map;
 import java.util.StringTokenizer;
+/**
+ * @author Vishal Singh */
 
 public class NearestPerfectSquare {
     static class FastReader

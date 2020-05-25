@@ -1,4 +1,6 @@
 package SummerTrainingGFG.BitManipulation.Practice;
+/**
+ * @author Vishal Singh */
 
 public class Practice {
     public static void main(String[] args) {
