@@ -8,6 +8,9 @@ public class BinarySearch {
         if (endIndex>=startIndex) {
 
             int mid = (startIndex + endIndex) / 2;
+
+            int mid2 =( startIndex + (endIndex-startIndex) ) / 2; // if the numbers are too high this way it prevents overflow
+
             if (search == arr[mid]) {
                 return mid;
             }
