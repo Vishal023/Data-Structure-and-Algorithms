@@ -4,7 +4,7 @@ package SummerTrainingGFG.Searching;
  * @author Vishal Singh */
 public class LeftMostIndex {
     static int leftMostIndex(int[] arr,int elementToSearch){
-        return search(arr,0,arr.length,elementToSearch)+1;
+        return search(arr,0,arr.length-1,elementToSearch)+1;
     }
     static int search(int[] arr,int low,int high,int elementToSearch){
         if (low>high){
