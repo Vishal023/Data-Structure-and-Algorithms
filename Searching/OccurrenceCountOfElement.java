@@ -1,5 +1,7 @@
 package SummerTrainingGFG.Searching;
 
+/**
+ * @author Vishal Singh */
 public class OccurrenceCountOfElement {
     static int leftMostIndex(int[] arr,int low,int high,int elementToSearch){
         if (low>high){
