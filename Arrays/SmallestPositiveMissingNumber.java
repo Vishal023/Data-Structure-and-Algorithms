@@ -16,7 +16,7 @@ public class SmallestPositiveMissingNumber {
         }
         for (int i = 1; i <= n; i++) {
             if (temp[i] == 0){
-                return i+1;
+                return i;
             }
         }
         return n+1;
