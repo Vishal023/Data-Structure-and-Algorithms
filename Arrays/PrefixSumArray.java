@@ -3,7 +3,8 @@ package SummerTrainingGFG.Arrays;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * @author Vishal Singh */
 public class PrefixSumArray {
     public static void main(String[] args)throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
