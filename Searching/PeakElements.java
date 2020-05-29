@@ -11,8 +11,8 @@ public class PeakElements {
         if (low>high){
             return -1;
         }
-        int mid = (low+high)/2;
-        if ( ( (mid == 0) || (arr[mid-1] < arr[mid]) ) && ( (mid == n-1) || (arr[mid] > arr[mid+1]) ) ) {
+        int mid = low + (high-low)/2;
+        if ( ( (mid == 0) || (arr[mid-1] <= arr[mid]) ) && ( (mid == n-1) || (arr[mid] >= arr[mid+1]) ) ) {
             return mid;
         }
         if (mid > 0 && arr[mid-1]>arr[mid]){
