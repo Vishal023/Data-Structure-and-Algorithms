@@ -40,30 +40,23 @@ public class SortedRotatedArraySearch {
         }
     }
     static int sortedRotatedArraySearch(int[] arr,int elementToSearch){
-
-        int n = arr.length-1;
-
-        int pivot = findPivot(arr,0,n);
-
-        if (pivot == -1){
-            return binarySearch(arr,0,n,elementToSearch);
+        int n = arr.length;
+        int pivot = findPivot(arr, 0, n-1);
+        if (pivot == -1) {
+            return binarySearch(arr, 0, n-1, elementToSearch);
         }
-        if (arr[pivot] == elementToSearch){
+        if (arr[pivot] == elementToSearch)
             return pivot;
-        }
-        if (arr[0] <= elementToSearch){
-            return binarySearch(arr,0,pivot-1,elementToSearch);
-        }
-        else {
-            return binarySearch(arr,pivot+1,n-1,elementToSearch);
-        }
+        if (arr[0] <= elementToSearch)
+            return binarySearch(arr, 0, pivot-1, elementToSearch);
+        return binarySearch(arr, pivot+1, n-1, elementToSearch);
     }
     public static void main(String[] args) {
         int[] arr = {10,20,40,5,6,7,8};
         int[] arr1 = {10,20,1,2,3,7,8};
         int[] arr2 = {10,20,40,50,60,70,1};
-        System.out.println(sortedRotatedArraySearch(arr,10));
-        System.out.println(sortedRotatedArraySearch(arr1,1));
-        System.out.println(sortedRotatedArraySearch(arr2,50));
+        System.out.println(sortedRotatedArraySearch(arr,100));
+        System.out.println(sortedRotatedArraySearch(arr1,10));
+        System.out.println(sortedRotatedArraySearch(arr2,1));
     }
 }
