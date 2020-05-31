@@ -19,7 +19,8 @@ public class InsertionSort {
     public static void main(String[] args) {
         //Best performance when size of array is small
         /*
-         * Best Case -  Array Sorted -
+         * Stable Sorting
+         *  Best Case -  Array Sorted -
          * Worst Case - Reverse Sorted - O(N^2)
          * */
         int[] arr = {50,20,40,10,30,60,80,99};
