@@ -28,21 +28,18 @@ public class MergeSort {
         int k = left;
         while (i<sizeOfArr1 && j < sizeOfArr2){
             if (arr1[i] <= arr2[j]){
-                arr[k] = arr1[i++];
+                arr[k++] = arr1[i++];
             }
             else {
-                arr[k] = arr2[j++];
+                arr[k++] = arr2[j++];
             }
-            k++;
         }
 
         while (i<sizeOfArr1){
-            arr[k] = arr1[i++];
-            k++;
+            arr[k++] = arr1[i++];
         }
         while (j<sizeOfArr2){
-            arr[k] = arr2[j++];
-            k++;
+            arr[k++] = arr2[j++];
         }
     }
     /**
