@@ -10,7 +10,7 @@ import java.util.Arrays;
  *      Method 1: By Hoare
  *      Method 2: By Lomuto
  * */
-public class SegregateElements {
+public class SegregateElementsOfTwoType {
     static void swap(int[] arr,int i,int j){
         int temp = arr[i];
         arr[i] = arr[j];
