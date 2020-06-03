@@ -16,6 +16,9 @@ public class SegregateElementOfThreeType {
         arr[j] = temp;
     }
     static void segregateZeroOneTwo(int[] arr,int n){
+        if (n<=1){
+            return;
+        }
         int low = 0;
         int mid = 0;
         int high = n-1;
