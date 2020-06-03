@@ -1,7 +1,9 @@
 package SummerTrainingGFG.Sorting;
 
 import java.util.Arrays;
-
+/**
+ * @author Vishal Singh
+ * Quick Select Algorithm*/
 public class KthSmallestElement {
     static void swap(int[] arr,int i,int j){
         int temp = arr[i];
