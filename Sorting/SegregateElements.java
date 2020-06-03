@@ -49,6 +49,22 @@ public class SegregateElements {
             swap(arr,i,j);
         }
     }
+    static void segregateZeroOne(int[] arr,int n){
+        int i = -1;
+        int j = n;
+        while (true){
+            do {
+                i++;
+            }while (arr[i] == 0);
+            do {
+                j--;
+            }while (arr[j] == 1);
+            if(i>=j){
+                return;
+            }
+            swap(arr,i,j);
+        }
+    }
     public static void main(String[] args) {
         int[] arr = {-10,-20,1,2,-9,5,6};
         segregatePositiveNegative(arr,arr.length);
@@ -58,5 +74,8 @@ public class SegregateElements {
         segregateEvenOdd(arr1,arr1.length);
         System.out.println(Arrays.toString(arr1));
 
+        int[] arr2 = {0,1,0,1,0,0,1,1,1,0,0,0,1,1,1};
+        segregateZeroOne(arr2,arr2.length);
+        System.out.println(Arrays.toString(arr2));
     }
 }
