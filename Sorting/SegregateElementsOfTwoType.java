@@ -19,15 +19,18 @@ public class SegregateElementsOfTwoType {
     /**
      * Used Hoare Partition*/
     static void segregatePositiveNegative(int[] arr, int n){
+        if (n<=1){
+            return;
+        }
         int i = -1;
         int j = n;
         while (true){
             do {
                 i++;
-            }while (arr[i]<0);
+            }while (i<n && arr[i]<0);
             do {
                 j--;
-            }while (arr[j]>=0);
+            }while (j>= 0 && arr[j]>=0);
             if (i>=j){
                 return;
             }
@@ -35,30 +38,36 @@ public class SegregateElementsOfTwoType {
         }
     }
     static void segregateEvenOdd(int[] arr,int n){
+        if (n<=1){
+            return;
+        }
         int i = -1;
         int j = n;
         while (true){
             do {
                 i++;
-            }while (arr[i]%2 == 0 );
+            }while (i<n && arr[i]%2 == 0 );
             do {
                 j--;
-            }while (arr[j]%2 !=0 );
+            }while (j>= 0 && arr[j]%2 !=0 );
             if (i>=j)
                 return;
             swap(arr,i,j);
         }
     }
     static void segregateZeroOne(int[] arr,int n){
+        if (n<=1){
+            return;
+        }
         int i = -1;
         int j = n;
         while (true){
             do {
                 i++;
-            }while (arr[i] == 0);
+            }while (i<n && arr[i] == 0);
             do {
                 j--;
-            }while (arr[j] == 1);
+            }while (j>= 0 && arr[j] == 1);
             if(i>=j){
                 return;
             }
