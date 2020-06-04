@@ -59,11 +59,17 @@ Java Solution for Data Structures and Algorithms.
 * [NumberOfDigitsInANumber](Mathematics/NumberOfDigitsInANumber.java)
 * [PrimeNumber](Mathematics/PrimeNumber.java)
 
-<b>6.	[RECURSION](Recursion)</b>
+<b>6.	[MISCELLANEOUS](Miscellaneous)</b>
 
-<b>7.	[SEARCHING](Searching)</b>
+* [FactorialDigits](Miscellaneous/FactorialDigits.java)
+* [NaturalNumbers](Miscellaneous/NaturalNumbers.java)
+* [QuadraticEquation](Miscellaneous/QuadraticEquation.java)
 
-<b>8.	[SORTING](Sorting)</b>
+<b>7.	[RECURSION](Recursion)</b>
+
+<b>8.	[SEARCHING](Searching)</b>
+
+<b>9.	[SORTING](Sorting)</b>
 
 
 
