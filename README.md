@@ -23,7 +23,7 @@ Java Solution for Data Structures and Algorithms.
 || [SwapNumbers](BitManipulation/SwapNumbers.java)||
 || [ToggleBits](BitManipulation/ToggleBits.java)||
 || [Unset](BitManipulation/Unset.java)||
-| --------------- | --------------- | --------------- |
+
 |	[IMPLEMENTATION](Implementation)|	[MATHEMATICS](Mathematics)|	[MISCELLANEOUS](Miscellaneous)
 | --------------- | --------------- | --------------- |
 | [BFS](Implementation/BFS.java)| [LastTermOfGP](Mathematics/LastTermOfGP.java)| [FactorialDigits](Miscellaneous/FactorialDigits.java)|
@@ -35,7 +35,7 @@ Java Solution for Data Structures and Algorithms.
 | [P_Queue](Implementation/P_Queue.java)||
 | [P_Stack](Implementation/P_Stack.java)||
 | [QuickSort](Implementation/QuickSort.java)||
-| --------------- | --------------- | --------------- |
+
 |	[RECURSION](Recursion)|	[SEARCHING](Searching)|	[SORTING](Sorting)
 | --------------- | --------------- | --------------- |
 | [JosephusProblem](Recursion/JosephusProblem.java)| [FindFloor](Searching/FindFloor.java)| [ChocolateDistribution](Sorting/ChocolateDistribution.java)
