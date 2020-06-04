@@ -109,6 +109,7 @@ Java Solution for Data Structures and Algorithms.
 <b>10. [MATRIX](Matrix)</b>
 
 * [Snake Pattern](Matrix/SnakePattern.java)
+* [Spiral Traversal](Matrix/SpiralTraversal.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
