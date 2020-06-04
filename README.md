@@ -20,6 +20,22 @@ Java Solution for Data Structures and Algorithms.
 * [WaveArray](Arrays/WaveArray.java)
 
 <b>2.	[BIT MANIPULATION](BitManipulation)</b>
+* [BinaryToGray](BitManipulation/BinaryToGray.java)
+* [CheckKthBitSetOrNot](BitManipulation/CheckKthBitSetOrNot.java)
+* [CheckPowerOfTwo](BitManipulation/CheckPowerOfTwo.java)
+* [CountSetBits](BitManipulation/CountSetBits.java)
+* [DivideAndMultiply](BitManipulation/DivideAndMultiply.java)
+* [FirstBitFromRight](BitManipulation/FirstBitFromRight.java)
+* [FlipBits](BitManipulation/FlipBits.java)
+* [LogBase2](BitManipulation/LogBase2.java)
+* [LongestConsecutiveOnes](BitManipulation/LongestConsecutiveOnes.java)
+* [MissingNumber](BitManipulation/MissingNumber.java)
+* [MSB](BitManipulation/MSB.java)
+* [OneOddOccuring](BitManipulation/OneOddOccuring.java)
+* [SetBit](BitManipulation/SetBit.java)
+* [SwapNumbers](BitManipulation/SwapNumbers.java)
+* [ToggleBits](BitManipulation/ToggleBits.java)
+* [Unset](BitManipulation/Unset.java)
 
 <b>3.	[CONTEST](Contest)</b>
 
