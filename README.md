@@ -101,6 +101,7 @@ Java Solution for Data Structures and Algorithms.
 * [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
 * [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
 * [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
+* [CycleSort](Sorting/CycleSort.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
