@@ -6,101 +6,51 @@ Java Solution for Data Structures and Algorithms.
     package SummerTrainingGFG.______;
     
 ## CONTENT
-<b>1. [ARRAYS](Arrays)</b>
-* [EquilibriumPoint](Arrays/EquilibriumPoint.java)
-* [FrequenciesOfLimitedRangeArrayElements](Arrays/FrequenciesOfLimitedRangeArrayElements.java)
-* [LeadersInArray](Arrays/LeadersInArray.java)
-* [MaxOccurredInteger](Arrays/MaxOccurredInteger.java)
-* [MinAdjacentDifferenceCircularArray](Arrays/MinAdjacentDifferenceCircularArray.java)
-* [PrefixSumArray](Arrays/PrefixSumArray.java)
-* [ReverserArrayInGroup](Arrays/ReverserArrayInGroup.java)
-* [RotateArray](Arrays/RotateArray.java)
-* [SmallestPositiveMissingNumber](Arrays/SmallestPositiveMissingNumber.java)
-* [StrongestNeighbour](Arrays/StrongestNeighbour.java)
-* [WaveArray](Arrays/WaveArray.java)
-
-<b>2.	[BIT MANIPULATION](BitManipulation)</b>
-* [BinaryToGray](BitManipulation/BinaryToGray.java)
-* [CheckKthBitSetOrNot](BitManipulation/CheckKthBitSetOrNot.java)
-* [CheckPowerOfTwo](BitManipulation/CheckPowerOfTwo.java)
-* [CountSetBits](BitManipulation/CountSetBits.java)
-* [DivideAndMultiply](BitManipulation/DivideAndMultiply.java)
-* [FirstBitFromRight](BitManipulation/FirstBitFromRight.java)
-* [FlipBits](BitManipulation/FlipBits.java)
-* [LogBase2](BitManipulation/LogBase2.java)
-* [LongestConsecutiveOnes](BitManipulation/LongestConsecutiveOnes.java)
-* [MissingNumber](BitManipulation/MissingNumber.java)
-* [MSB](BitManipulation/MSB.java)
-* [OneOddOccuring](BitManipulation/OneOddOccuring.java)
-* [SetBit](BitManipulation/SetBit.java)
-* [SwapNumbers](BitManipulation/SwapNumbers.java)
-* [ToggleBits](BitManipulation/ToggleBits.java)
-* [Unset](BitManipulation/Unset.java)
-
-<b>3.	[CONTEST](Contest)</b>
-* [ConversionToOne](Contest/ConversionToOne.java)
-* [GetTheShadow](Contest/GetTheShadow.java)
-* [NearestPerfectSquare](Contest/NearestPerfectSquare.java)
-
-<b>4.	[IMPLEMENTATION](Implementation)</b>
-* [BFS](Implementation/BFS.java)
-* [BinarySearch](Implementation/BinarySearch.java)
-* [DFS](Implementation/DFS.java)
-* [InsertionSort](Implementation/InsertionSort.java)
-* [MergeSort](Implementation/MergeSort.java)
-* [P_LinkedList](Implementation/P_LinkedList.java)
-* [P_Queue](Implementation/P_Queue.java)
-* [P_Stack](Implementation/P_Stack.java)
-* [QuickSort](Implementation/QuickSort.java)
-
-<b>5.	[MATHEMATICS](Mathematics)</b>
-
-* [LastTermOfGP](Mathematics/LastTermOfGP.java)
-* [NumberOfDigitsInANumber](Mathematics/NumberOfDigitsInANumber.java)
-* [PrimeNumber](Mathematics/PrimeNumber.java)
-
-<b>6.	[MISCELLANEOUS](Miscellaneous)</b>
-
-* [FactorialDigits](Miscellaneous/FactorialDigits.java)
-* [NaturalNumbers](Miscellaneous/NaturalNumbers.java)
-* [QuadraticEquation](Miscellaneous/QuadraticEquation.java)
-
-<b>7.	[RECURSION](Recursion)</b>
-
-* [JosephusProblem](Recursion/JosephusProblem.java)
-* [PossibleWordsFromPhoneDigits](Recursion/PossibleWordsFromPhoneDigits.java)
-* [RodCutting](Recursion/RodCutting.java)
-* [StringPalindrome](Recursion/StringPalindrome.java)
-* [SubsetOfString](Recursion/SubsetOfString.java)
-* [SubsetSumArray](Recursion/SubsetSumArray.java)
-* [TowerOfHanoi](Recursion/TowerOfHanoi.java)
-
-<b>8.	[SEARCHING](Searching)</b>
-
-* [FindFloor](Searching/FindFloor.java)
-* [LeftMostIndex](Searching/LeftMostIndex.java)
-* [MajorityElement](Searching/MajorityElement.java)
-* [OccurrenceCountOfElement](Searching/OccurrenceCountOfElement.java)
-* [PeakElements](Searching/PeakElements.java)
-* [SortedRotatedArraySearch](Searching/SortedRotatedArraySearch.java)
-* [SquareRoot](Searching/SquareRoot.java)
-* [TwoPointerApproach](Searching/TwoPointerApproach.java)
-
-<b>9.	[SORTING](Sorting)</b>
-
-* [ChocolateDistribution](Sorting/ChocolateDistribution.java)
-* [CountInversionInArray](Sorting/CountInversionInArray.java)
-* [IntersectionOfTwoSortedArray](Sorting/IntersectionOfTwoSortedArray.java)
-* [KthSmallestElement](Sorting/KthSmallestElement.java)
-* [ListTypeArray](Sorting/ListTypeArray.java)
-* [MergeOverlappingIntervals](Sorting/MergeOverlappingIntervals.java)
-* [MergeTwoSortedArray](Sorting/MergeTwoSortedArray.java)
-* [NormalArray](Sorting/NormalArray.java)
-* [QuickSortUsingHoarePartition](Sorting/QuickSortUsingHoarePartition.java)
-* [QuickSortUsingLomutoPartition](Sorting/QuickSortUsingLomutoPartition.java)
-* [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
-* [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
-* [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
+| [ARRAYS](Arrays) | [BIT MANIPULATION](BitManipulation) | [CONTEST](Contest) |
+| --------------- | --------------- | --------------- |
+| [EquilibriumPoint](Arrays/EquilibriumPoint.java) | [CheckKthBitSetOrNot](BitManipulation/CheckKthBitSetOrNot.java)| [ConversionToOne](Contest/ConversionToOne.java) |
+| [FrequenciesOfLimitedRangeArrayElements](Arrays/FrequenciesOfLimitedRangeArrayElements.java) | [CheckPowerOfTwo](BitManipulation/CheckPowerOfTwo.java) | [GetTheShadow](Contest/GetTheShadow.java)|
+| [LeadersInArray](Arrays/LeadersInArray.java)| [CountSetBits](BitManipulation/CountSetBits.java) | [NearestPerfectSquare](Contest/NearestPerfectSquare.java)|
+| [MaxOccurredInteger](Arrays/MaxOccurredInteger.java) | [DivideAndMultiply](BitManipulation/DivideAndMultiply.java)|
+| [MinAdjacentDifferenceCircularArray](Arrays/MinAdjacentDifferenceCircularArray.java) | [FirstBitFromRight](BitManipulation/FirstBitFromRight.java)|
+| [PrefixSumArray](Arrays/PrefixSumArray.java) | [FlipBits](BitManipulation/FlipBits.java)|
+| [ReverserArrayInGroup](Arrays/ReverserArrayInGroup.java) | [LogBase2](BitManipulation/LogBase2.java)|
+| [RotateArray](Arrays/RotateArray.java)| [LongestConsecutiveOnes](BitManipulation/LongestConsecutiveOnes.java) |
+| [SmallestPositiveMissingNumber](Arrays/SmallestPositiveMissingNumber.java) | [MissingNumber](BitManipulation/MissingNumber.java)|
+| [StrongestNeighbour](Arrays/StrongestNeighbour.java) | [MSB](BitManipulation/MSB.java)|
+| [WaveArray](Arrays/WaveArray.java) | [OneOddOccuring](BitManipulation/OneOddOccuring.java)|
+|| [SetBit](BitManipulation/SetBit.java)||
+|| [SwapNumbers](BitManipulation/SwapNumbers.java)||
+|| [ToggleBits](BitManipulation/ToggleBits.java)||
+|| [Unset](BitManipulation/Unset.java)||
+| --------------- | --------------- | --------------- |
+|	[IMPLEMENTATION](Implementation)|	[MATHEMATICS](Mathematics)|	[MISCELLANEOUS](Miscellaneous)
+| --------------- | --------------- | --------------- |
+| [BFS](Implementation/BFS.java)| [LastTermOfGP](Mathematics/LastTermOfGP.java)| [FactorialDigits](Miscellaneous/FactorialDigits.java)|
+| [BinarySearch](Implementation/BinarySearch.java)| [NumberOfDigitsInANumber](Mathematics/NumberOfDigitsInANumber.java) | [NaturalNumbers](Miscellaneous/NaturalNumbers.java)|
+| [DFS](Implementation/DFS.java)| [PrimeNumber](Mathematics/PrimeNumber.java)| [QuadraticEquation](Miscellaneous/QuadraticEquation.java)|
+| [InsertionSort](Implementation/InsertionSort.java)||
+| [MergeSort](Implementation/MergeSort.java)||
+| [P_LinkedList](Implementation/P_LinkedList.java)||
+| [P_Queue](Implementation/P_Queue.java)||
+| [P_Stack](Implementation/P_Stack.java)||
+| [QuickSort](Implementation/QuickSort.java)||
+| --------------- | --------------- | --------------- |
+|	[RECURSION](Recursion)|	[SEARCHING](Searching)|	[SORTING](Sorting)
+| --------------- | --------------- | --------------- |
+| [JosephusProblem](Recursion/JosephusProblem.java)| [FindFloor](Searching/FindFloor.java)| [ChocolateDistribution](Sorting/ChocolateDistribution.java)
+| [PossibleWordsFromPhoneDigits](Recursion/PossibleWordsFromPhoneDigits.java)| [LeftMostIndex](Searching/LeftMostIndex.java)| [CountInversionInArray](Sorting/CountInversionInArray.java)
+| [RodCutting](Recursion/RodCutting.java)| [MajorityElement](Searching/MajorityElement.java)| [IntersectionOfTwoSortedArray](Sorting/IntersectionOfTwoSortedArray.java)
+| [StringPalindrome](Recursion/StringPalindrome.java)| [OccurrenceCountOfElement](Searching/OccurrenceCountOfElement.java)| [KthSmallestElement](Sorting/KthSmallestElement.java)
+| [SubsetOfString](Recursion/SubsetOfString.java)| [PeakElements](Searching/PeakElements.java)| [ListTypeArray](Sorting/ListTypeArray.java)
+| [SubsetSumArray](Recursion/SubsetSumArray.java)| [SortedRotatedArraySearch](Searching/SortedRotatedArraySearch.java)| [MergeOverlappingIntervals](Sorting/MergeOverlappingIntervals.java)
+| [TowerOfHanoi](Recursion/TowerOfHanoi.java)| [SquareRoot](Searching/SquareRoot.java)| [MergeTwoSortedArray](Sorting/MergeTwoSortedArray.java)
+|| [TwoPointerApproach](Searching/TwoPointerApproach.java)| [NormalArray](Sorting/NormalArray.java)
+||| [QuickSortUsingHoarePartition](Sorting/QuickSortUsingHoarePartition.java)
+||| [QuickSortUsingLomutoPartition](Sorting/QuickSortUsingLomutoPartition.java)
+||| [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
+||| [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
+||| [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
