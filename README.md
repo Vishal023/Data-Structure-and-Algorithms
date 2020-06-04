@@ -55,6 +55,10 @@ Java Solution for Data Structures and Algorithms.
 
 <b>5.	[MATHEMATICS](Mathematics)</b>
 
+* [LastTermOfGP](Mathematics/LastTermOfGP.java)
+* [NumberOfDigitsInANumber](Mathematics/NumberOfDigitsInANumber.java)
+* [PrimeNumber](Mathematics/PrimeNumber.java)
+
 <b>6.	[RECURSION](Recursion)</b>
 
 <b>7.	[SEARCHING](Searching)</b>
