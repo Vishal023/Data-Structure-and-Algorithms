@@ -67,6 +67,14 @@ Java Solution for Data Structures and Algorithms.
 
 <b>7.	[RECURSION](Recursion)</b>
 
+* [JosephusProblem](Recursion/JosephusProblem.java)
+* [PossibleWordsFromPhoneDigits](Recursion/PossibleWordsFromPhoneDigits.java)
+* [RodCutting](Recursion/RodCutting.java)
+* [StringPalindrome](Recursion/StringPalindrome.java)
+* [SubsetOfString](Recursion/SubsetOfString.java)
+* [SubsetSumArray](Recursion/SubsetSumArray.java)
+* [TowerOfHanoi](Recursion/TowerOfHanoi.java)
+
 <b>8.	[SEARCHING](Searching)</b>
 
 <b>9.	[SORTING](Sorting)</b>
