@@ -106,5 +106,9 @@ Java Solution for Data Structures and Algorithms.
 * [Radix sort](Sorting/RadixSort.java)
 * [Bucket sort](Sorting/BucketSort.java)
 
+<b>10. [MATRIX](Matrix)</b>
+
+* [Snake Pattern](Matrix/SnakePattern.java)
+
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
