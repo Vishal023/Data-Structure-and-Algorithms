@@ -43,6 +43,15 @@ Java Solution for Data Structures and Algorithms.
 * [NearestPerfectSquare](Contest/NearestPerfectSquare.java)
 
 <b>4.	[IMPLEMENTATION](Implementation)</b>
+* [BFS](Implementation/BFS.java)
+* [BinarySearch](Implementation/BinarySearch.java)
+* [DFS](Implementation/DFS.java)
+* [InsertionSort](Implementation/InsertionSort.java)
+* [MergeSort](Implementation/MergeSort.java)
+* [P_LinkedList](Implementation/P_LinkedList.java)
+* [P_Queue](Implementation/P_Queue.java)
+* [P_Stack](Implementation/P_Stack.java)
+* [QuickSort](Implementation/QuickSort.java)
 
 <b>5.	[MATHEMATICS](Mathematics)</b>
 
