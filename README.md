@@ -88,6 +88,19 @@ Java Solution for Data Structures and Algorithms.
 
 <b>9.	[SORTING](Sorting)</b>
 
+* [ChocolateDistribution](Sorting/ChocolateDistribution.java)
+* [CountInversionInArray](Sorting/CountInversionInArray.java)
+* [IntersectionOfTwoSortedArray](Sorting/IntersectionOfTwoSortedArray.java)
+* [KthSmallestElement](Sorting/KthSmallestElement.java)
+* [ListTypeArray](Sorting/ListTypeArray.java)
+* [MergeOverlappingIntervals](Sorting/MergeOverlappingIntervals.java)
+* [MergeTwoSortedArray](Sorting/MergeTwoSortedArray.java)
+* [NormalArray](Sorting/NormalArray.java)
+* [QuickSortUsingHoarePartition](Sorting/QuickSortUsingHoarePartition.java)
+* [QuickSortUsingLomutoPartition](Sorting/QuickSortUsingLomutoPartition.java)
+* [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
+* [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
+* [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
