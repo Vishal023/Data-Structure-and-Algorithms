@@ -77,8 +77,16 @@ Java Solution for Data Structures and Algorithms.
 
 <b>8.	[SEARCHING](Searching)</b>
 
-<b>9.	[SORTING](Sorting)</b>
+* [FindFloor](Searching/FindFloor.java)
+* [LeftMostIndex](Searching/LeftMostIndex.java)
+* [MajorityElement](Searching/MajorityElement.java)
+* [OccurrenceCountOfElement](Searching/OccurrenceCountOfElement.java)
+* [PeakElements](Searching/PeakElements.java)
+* [SortedRotatedArraySearch](Searching/SortedRotatedArraySearch.java)
+* [SquareRoot](Searching/SquareRoot.java)
+* [TwoPointerApproach](Searching/TwoPointerApproach.java)
 
+<b>9.	[SORTING](Sorting)</b>
 
 
 ### `NOTE: Raise an issue if any program doesn't work.`
