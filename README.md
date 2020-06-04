@@ -38,6 +38,9 @@ Java Solution for Data Structures and Algorithms.
 * [Unset](BitManipulation/Unset.java)
 
 <b>3.	[CONTEST](Contest)</b>
+* [ConversionToOne](Contest/ConversionToOne.java)
+* [GetTheShadow](Contest/GetTheShadow.java)
+* [NearestPerfectSquare](Contest/NearestPerfectSquare.java)
 
 <b>4.	[IMPLEMENTATION](Implementation)</b>
 
