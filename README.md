@@ -112,6 +112,7 @@ Java Solution for Data Structures and Algorithms.
 * [Spiral Traversal](Matrix/SpiralTraversal.java)
 * [Search in Matrix Rows Sorted Column Sorted](Matrix/SearchInMatrix.java)
 * [Add Matrix](Matrix/AddMatrix.java)
+* [Boolean Matrix Problem](Matrix/BooleanMatrixProblem.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
