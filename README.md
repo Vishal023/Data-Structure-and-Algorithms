@@ -103,6 +103,7 @@ Java Solution for Data Structures and Algorithms.
 * [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
 * [CycleSort](Sorting/CycleSort.java)
 * [CountingSort](Sorting/CountingSort.java)
+* [Radix sort](Sorting/RadixSort.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
