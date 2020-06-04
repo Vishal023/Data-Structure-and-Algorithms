@@ -19,10 +19,10 @@ Java Solution for Data Structures and Algorithms.
 | [SmallestPositiveMissingNumber](Arrays/SmallestPositiveMissingNumber.java) | [MissingNumber](BitManipulation/MissingNumber.java)|
 | [StrongestNeighbour](Arrays/StrongestNeighbour.java) | [MSB](BitManipulation/MSB.java)|
 | [WaveArray](Arrays/WaveArray.java) | [OneOddOccuring](BitManipulation/OneOddOccuring.java)|
-|| [SetBit](BitManipulation/SetBit.java)||
-|| [SwapNumbers](BitManipulation/SwapNumbers.java)||
-|| [ToggleBits](BitManipulation/ToggleBits.java)||
-|| [Unset](BitManipulation/Unset.java)||
+| | [SetBit](BitManipulation/SetBit.java)| |
+| | [SwapNumbers](BitManipulation/SwapNumbers.java)| |
+| | [ToggleBits](BitManipulation/ToggleBits.java)| |
+| | [Unset](BitManipulation/Unset.java)| |
 
 |	[IMPLEMENTATION](Implementation)|	[MATHEMATICS](Mathematics)|	[MISCELLANEOUS](Miscellaneous)
 | --------------- | --------------- | --------------- |
@@ -45,12 +45,12 @@ Java Solution for Data Structures and Algorithms.
 | [SubsetOfString](Recursion/SubsetOfString.java)| [PeakElements](Searching/PeakElements.java)| [ListTypeArray](Sorting/ListTypeArray.java)
 | [SubsetSumArray](Recursion/SubsetSumArray.java)| [SortedRotatedArraySearch](Searching/SortedRotatedArraySearch.java)| [MergeOverlappingIntervals](Sorting/MergeOverlappingIntervals.java)
 | [TowerOfHanoi](Recursion/TowerOfHanoi.java)| [SquareRoot](Searching/SquareRoot.java)| [MergeTwoSortedArray](Sorting/MergeTwoSortedArray.java)
-|| [TwoPointerApproach](Searching/TwoPointerApproach.java)| [NormalArray](Sorting/NormalArray.java)
-||| [QuickSortUsingHoarePartition](Sorting/QuickSortUsingHoarePartition.java)
-||| [QuickSortUsingLomutoPartition](Sorting/QuickSortUsingLomutoPartition.java)
-||| [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
-||| [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
-||| [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
+| | [TwoPointerApproach](Searching/TwoPointerApproach.java)| [NormalArray](Sorting/NormalArray.java)
+| | | [QuickSortUsingHoarePartition](Sorting/QuickSortUsingHoarePartition.java)
+| | | [QuickSortUsingLomutoPartition](Sorting/QuickSortUsingLomutoPartition.java)
+| | | [SegregateElementOfThreeType](Sorting/SegregateElementOfThreeType.java)
+| | | [SegregateElementsOfTwoType](Sorting/SegregateElementsOfTwoType.java)
+| | | [UnionOfTwoSortedArray](Sorting/UnionOfTwoSortedArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
