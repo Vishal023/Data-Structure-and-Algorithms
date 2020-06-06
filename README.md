@@ -116,17 +116,21 @@ Java Solution for Data Structures and Algorithms.
 
 <b>11. [HASHING](Hashing)</b>
 
-* [Hash Set Implementation](Hashing/P_HashSet.java)
-* [Hash Map Implementation](Hashing/P_HashMap.java)
-* [Count Distinct Elements](Hashing/CountDistinctElements.java)
-* [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
-* [Intersection Of Array](Hashing/InsertionOfArray.java)
-* [Union of Array](Hashing/UnionOfArray.java)
-* [Pair with sum X](Hashing/PairWithSumX.java)
-* [Sub array with sum 0](Hashing/SubArrayWithZeroSum.java)
-* [Sub array with given sum ](Hashing/SubArrayWithGivenSum.java)
-* [Longest sub array with given sum ](Hashing/LongestSubArrayWithGivenSum.java)
+* [CountDistinctElementInEveryWindow](Hashing/CountDistinctElementInEveryWindow.java)
+* [CountDistinctElements](Hashing/CountDistinctElements.java)
+* [FrequencyOfArrayElements](Hashing/FrequencyOfArrayElements.java)
+* [InsertionOfArray](Hashing/InsertionOfArray.java)
+* [LongestCommonSpanTwoBinaryArray](Hashing/LongestCommonSpanTwoBinaryArray.java)
+* [LongestCommonSubsequence](Hashing/LongestCommonSubsequence.java)
+* [LongestSubArrayWithGivenSum](Hashing/LongestSubArrayWithGivenSum.java)
+* [P_HashMap](Hashing/P_HashMap.java)
+* [P_HashSet](Hashing/P_HashSet.java)
+* [PairWithSumX](Hashing/PairWithSumX.java)
+* [SubArrayWithGivenSum](Hashing/SubArrayWithGivenSum.java)
+* [SubArrayWithZeroSum](Hashing/SubArrayWithZeroSum.java)
+* [UnionOfArray](Hashing/UnionOfArray.java)
 
+Process finished with exit code 0
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
