@@ -121,6 +121,7 @@ Java Solution for Data Structures and Algorithms.
 * [Count Distinct Elements](Hashing/CountDistinctElements.java)
 * [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
 * [Intersection Of Array](Hashing/InsertionOfArray.java)
+* [Union of Array](Hashing/UnionOfArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
