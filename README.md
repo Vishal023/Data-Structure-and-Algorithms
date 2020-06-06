@@ -114,5 +114,12 @@ Java Solution for Data Structures and Algorithms.
 * [Add Matrix](Matrix/AddMatrix.java)
 * [Boolean Matrix Problem](Matrix/BooleanMatrixProblem.java)
 
+<b>11. [HASHING](Hashing)</b>
+
+* [Hash Set Implementation](Hashing/P_HashSet.java)
+* [Hash Map Implementation](Hashing/P_HashMap.java)
+* [Count Distinct Elements](Hashing/CountDistinctElements.java)
+* [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
+
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
