@@ -120,6 +120,7 @@ Java Solution for Data Structures and Algorithms.
 * [Hash Map Implementation](Hashing/P_HashMap.java)
 * [Count Distinct Elements](Hashing/CountDistinctElements.java)
 * [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
+* [Intersection Of Array](Hashing/InsertionOfArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
