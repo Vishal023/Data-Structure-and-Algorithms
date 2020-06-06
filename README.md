@@ -123,9 +123,9 @@ Java Solution for Data Structures and Algorithms.
 * [Intersection Of Array](Hashing/InsertionOfArray.java)
 * [Union of Array](Hashing/UnionOfArray.java)
 * [Pair with sum X](Hashing/PairWithSumX.java)
-*[Sub array with sum 0](Hashing/SubArrayWithZeroSum.java)
-*[Sub array with given sum ](Hashing/SubArrayWithGivenSum.java)
-*[Longest sub array with given sum ](Hashing/LongestSubArrayWithGivenSum.java)
+* [Sub array with sum 0](Hashing/SubArrayWithZeroSum.java)
+* [Sub array with given sum ](Hashing/SubArrayWithGivenSum.java)
+* [Longest sub array with given sum ](Hashing/LongestSubArrayWithGivenSum.java)
 
 
 ### `NOTE: Raise an issue if any program doesn't work.`
