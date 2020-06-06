@@ -122,6 +122,6 @@ Java Solution for Data Structures and Algorithms.
 * [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
 * [Intersection Of Array](Hashing/InsertionOfArray.java)
 * [Union of Array](Hashing/UnionOfArray.java)
-
+* [Pair with sum X](Hashing/PairWithSumX.java)
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
