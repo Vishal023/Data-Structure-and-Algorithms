@@ -116,19 +116,19 @@ Java Solution for Data Structures and Algorithms.
 
 <b>11. [HASHING](Hashing)</b>
 
-* [CountDistinctElementInEveryWindow](Hashing/CountDistinctElementInEveryWindow.java)
-* [CountDistinctElements](Hashing/CountDistinctElements.java)
-* [FrequencyOfArrayElements](Hashing/FrequencyOfArrayElements.java)
-* [InsertionOfArray](Hashing/InsertionOfArray.java)
-* [LongestCommonSpanTwoBinaryArray](Hashing/LongestCommonSpanTwoBinaryArray.java)
-* [LongestCommonSubsequence](Hashing/LongestCommonSubsequence.java)
-* [LongestSubArrayWithGivenSum](Hashing/LongestSubArrayWithGivenSum.java)
+* [Count Distinct Element In Every Window](Hashing/CountDistinctElementInEveryWindow.java)
+* [Count Distinct Elements](Hashing/CountDistinctElements.java)
+* [Frequency Of Array Elements](Hashing/FrequencyOfArrayElements.java)
+* [Insertion Of Array](Hashing/InsertionOfArray.java)
+* [Longest Common Span Two Binary Array](Hashing/LongestCommonSpanTwoBinaryArray.java)
+* [Longest Common Subsequence](Hashing/LongestCommonSubsequence.java)
+* [Longest Sub Array With Given Sum](Hashing/LongestSubArrayWithGivenSum.java)
 * [P_HashMap](Hashing/P_HashMap.java)
 * [P_HashSet](Hashing/P_HashSet.java)
-* [PairWithSumX](Hashing/PairWithSumX.java)
-* [SubArrayWithGivenSum](Hashing/SubArrayWithGivenSum.java)
-* [SubArrayWithZeroSum](Hashing/SubArrayWithZeroSum.java)
-* [UnionOfArray](Hashing/UnionOfArray.java)
+* [Pair With Sum X](Hashing/PairWithSumX.java)
+* [Sub Array With Given Sum](Hashing/SubArrayWithGivenSum.java)
+* [Sub Array With Zero Sum](Hashing/SubArrayWithZeroSum.java)
+* [Union Of Array](Hashing/UnionOfArray.java)
 
 Process finished with exit code 0
 
