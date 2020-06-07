@@ -135,6 +135,9 @@ Java Solution for Data Structures and Algorithms.
 * [Sub Array With Zero Sum](Hashing/SubArrayWithZeroSum.java)
 * [Union Of Array](Hashing/UnionOfArray.java)
 
+<b>12. [STRINGS](Strings)</b>
+
+* [Check Anagram](Strings/CheckAnagram.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
