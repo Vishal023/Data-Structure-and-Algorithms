@@ -130,7 +130,6 @@ Java Solution for Data Structures and Algorithms.
 * [Sub Array With Zero Sum](Hashing/SubArrayWithZeroSum.java)
 * [Union Of Array](Hashing/UnionOfArray.java)
 
-Process finished with exit code 0
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
