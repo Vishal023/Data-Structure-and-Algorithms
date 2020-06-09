@@ -138,6 +138,12 @@ Java Solution for Data Structures and Algorithms.
 <b>12. [STRINGS](Strings)</b>
 
 * [Check Anagram](Strings/CheckAnagram.java)
+* [Check Panagram](Strings/CheckPanagram.java)
+* [Left Most Repeating](Strings/LeftMostRepeating.java)
+* [Lexicographic Rank Problem](Strings/LexicographicRankProblem.java)
+* [Permutation Of Pattern Exist](Strings/PermutationOfPatternExist.java)
+* [Rotation Of String Or Not](Strings/RotationOfStringOrNot.java)
+* [Sum Of Number In String](Strings/SumOfNumberInString.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
