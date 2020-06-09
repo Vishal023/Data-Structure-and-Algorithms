@@ -1,6 +1,9 @@
 # Data-Structure-and-Algorithms
 Java Solution for Data Structures and Algorithms.
     
+    Star the Repo for quick view
+    Fork the Repo if you want to contribute to it
+    
     USING THE CODE
     BEFORE RUNNING ANY OF THE CODE REMOVE THIS FROM THE TOP OF THE CODE
     package SummerTrainingGFG.______;
