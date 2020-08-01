@@ -13,8 +13,9 @@ public class NextGreater {
         //          {15,18,12,12,12,18,18,-1}
         ArrayList<Integer> list = new ArrayList<>();
         Stack<Integer> stack  = new Stack<>();
+        list.add(-1);
         stack.push(arr[arr.length-1]);
-        for (int i = arr.length-1; i >=0; i--) {
+        for (int i = arr.length-2; i >=0; i--) {
             while (!stack.isEmpty() && stack.peek()<= arr[i]){
                 stack.pop();
             }
