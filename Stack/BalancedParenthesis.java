@@ -4,7 +4,7 @@ import java.util.*;
  * @author Vishal Singh
  */
 public class BalancedParenthesis {
-    static boolean check(char a,char b){
+   static boolean check(char a,char b){
         return (a=='{' && b == '}')||(a=='[' && b == ']')||(a=='(' && b == ')');
     }
     static boolean isBalancedParenthesis(String str){
