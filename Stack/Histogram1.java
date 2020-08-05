@@ -1,5 +1,3 @@
-package SummerTrainingGFG.Stack;
-
 import java.io.*;
 import java.util.*;
 
