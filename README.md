@@ -41,9 +41,15 @@ Java Solution for Data Structures and Algorithms.
 * [Unset](BitManipulation/Unset.java)
 
 <b>3.	[CONTEST](Contest)</b>
+* [Boolean Matrix Problem](Contest/BooleanMatrixProblem.java)
 * [Conversion To One](Contest/ConversionToOne.java)
 * [Get The Shadow](Contest/GetTheShadow.java)
+* [K Sum](Contest/KSum.java)
+* [Kth Smallest Difference](Contest/KthSmallestDifference.java)
 * [Nearest Perfect Square](Contest/NearestPerfectSquare.java)
+* [Toggle The Middle](Contest/ToggleTheMiddle.java)
+* [Without Adjacent](Contest/WithoutAdjacent.java)
+* [X O R Pair](Contest/XORPair.java)
 
 <b>4.	[IMPLEMENTATION](Implementation)</b>
 * [BFS](Implementation/BFS.java)
@@ -142,11 +148,44 @@ Java Solution for Data Structures and Algorithms.
 
 * [Check Anagram](Strings/CheckAnagram.java)
 * [Check Panagram](Strings/CheckPanagram.java)
+* [Isogram Words](Strings/IsogramWords.java)
+* [Keypad Typing](Strings/KeypadTyping.java)
 * [Left Most Repeating](Strings/LeftMostRepeating.java)
 * [Lexicographic Rank Problem](Strings/LexicographicRankProblem.java)
 * [Permutation Of Pattern Exist](Strings/PermutationOfPatternExist.java)
 * [Rotation Of String Or Not](Strings/RotationOfStringOrNot.java)
 * [Sum Of Number In String](Strings/SumOfNumberInString.java)
+
+<b>13. [LINKEDLIST](LinkedList)</b>
+* [Delete Alternate](LinkedList/DeleteAlternate.java)
+* [Doubly Linked List](LinkedList/DoublyLinkedList.java)
+* [Middle Of Linked List](LinkedList/MiddleOfLinkedList.java)
+* [Nth Pointer From E Nd](LinkedList/NthPointerFromENd.java)
+* [Rm Duplicate Sorted](LinkedList/RmDuplicateSorted.java)
+* [Singly Linked List](LinkedList/SinglyLinkedList.java)
+* [Split Alternatingly](LinkedList/SplitAlternatingly.java)
+* [Union Intersection](LinkedList/UnionIntersection.java)
+
+
+<b>14. [STACK](Stack)</b>
+* [Array Implementation](Stack/ArrayImplementation.java)
+* [Balanced Parenthesis](Stack/BalancedParenthesis.java)
+* [Delete Mid Of Stack](Stack/DeleteMidOfStack.java)
+* [Eval Postfix](Stack/EvalPostfix.java)
+* [Get Min](Stack/GetMin.java)
+* [Get Min At Pop](Stack/GetMinAtPop.java)
+* [Histogram1](Stack/Histogram1.java)
+* [Histogram2](Stack/Histogram2.java)
+* [Infix To Postfix](Stack/InfixToPostfix.java)
+* [K Stack In Array](Stack/KStackInArray.java)
+* [Largest Rectangular Area](Stack/LargestRectangularArea.java)
+* [Linked List Stack](Stack/LinkedListStack.java)
+* [Next Greater](Stack/NextGreater.java)
+* [Previous Greater](Stack/PreviousGreater.java)
+* [Remove Consecutive Duplicates](Stack/RemoveConsecutiveDuplicates.java)
+* [Remove Consecutive Duplicates2](Stack/RemoveConsecutiveDuplicates2.java)
+* [Stock Span](Stack/StockSpan.java)
+* [Two Stacks In An Array](Stack/TwoStacksInAnArray.java)
 
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
