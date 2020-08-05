@@ -13,6 +13,7 @@ public class StockSpan {
         System.out.println(Arrays.toString(arr));
         Stack<Integer> span = new Stack<Integer>();
         span.push(0);
+        System.out.print("1"+" "); //Bcz Span of first element is alway one
         for (int i = 1; i < 10; i++) {
             while (!span.isEmpty() && arr[span.peek()] <= arr[i]){
                 span.pop();
