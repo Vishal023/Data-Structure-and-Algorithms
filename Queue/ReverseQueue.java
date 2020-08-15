@@ -19,6 +19,16 @@ public class ReverseQueue {
             q.offer(s.pop());
         }
     }
+    /*
+    * Recursice approach*/
+    static void reverseRecursive(Queue<Integer> q){
+        if (q.isEmpty()){
+            return;
+        }
+        int top = q.poll();
+        reverseRecursive(q);
+        q.offer(top);
+    }
     public static void main(String[] args) {
         Queue<Integer> q = new ArrayDeque<>();
         q.offer(3);
@@ -26,6 +36,8 @@ public class ReverseQueue {
         q.offer(1);
         System.out.println(q);
         reverse(q);
+        System.out.println(q);
+        reverseRecursive(q);
         System.out.println(q);
     }
 }
