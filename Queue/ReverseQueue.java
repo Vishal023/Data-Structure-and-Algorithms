@@ -9,7 +9,9 @@ import java.util.Stack;
  */
 public class ReverseQueue {
     /*
-    * Iterative Approach*/
+    * Iterative Approach
+    * Explicitly Using stack
+    * */
     static void reverse(Queue<Integer> q){
         Stack<Integer> s = new Stack<>();
         while (!q.isEmpty()){
@@ -20,7 +22,9 @@ public class ReverseQueue {
         }
     }
     /*
-    * Recursice approach*/
+    * Recursice approach
+    * Functional Stack used internally
+    * */
     static void reverseRecursive(Queue<Integer> q){
         if (q.isEmpty()){
             return;
