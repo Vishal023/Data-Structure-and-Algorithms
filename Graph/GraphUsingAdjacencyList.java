@@ -1,6 +1,7 @@
-package Graph;
-import java.util.*;
-import java.io.*;
+package SummerTrainingGFG.Graph;
+
+import java.util.ArrayList;
+import java.util.Scanner;
 
 /*
         author : Aditya Aggarwal

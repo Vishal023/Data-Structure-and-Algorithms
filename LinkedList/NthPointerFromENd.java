@@ -1,8 +1,5 @@
 package SummerTrainingGFG.LinkedList;
 
-import java.awt.geom.Line2D;
-import java.util.LinkedList;
-
 /**
  * @author Vishal Singh
  */

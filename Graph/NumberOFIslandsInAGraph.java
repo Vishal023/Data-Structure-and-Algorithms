@@ -1,7 +1,10 @@
-package Graph;
+package SummerTrainingGFG.Graph;
 
-import java.util.*;
-import java.io.*;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
 
 /*
         author : Aditya Aggarwal

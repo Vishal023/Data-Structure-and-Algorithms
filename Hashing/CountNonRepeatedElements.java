@@ -1,7 +1,6 @@
 package SummerTrainingGFG.Hashing;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 /**
  * @author Vishal Singh

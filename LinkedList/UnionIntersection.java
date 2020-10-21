@@ -1,7 +1,6 @@
 package SummerTrainingGFG.LinkedList;
 
 import java.util.HashSet;
-import java.util.LinkedList;
 
 /**
  * @author Vishal Singh

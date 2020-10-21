@@ -1,7 +1,5 @@
 package SummerTrainingGFG.LinkedList;
 
-import java.util.LinkedList;
-
 /**
  * @author Vishal Singh
  */

@@ -1,6 +1,6 @@
 package SummerTrainingGFG.Stack;
 
-import java.util.*;
+import java.util.Stack;
 
 /**
  * @author Vishal Singh

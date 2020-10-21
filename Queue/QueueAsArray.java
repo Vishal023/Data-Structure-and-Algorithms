@@ -1,7 +1,5 @@
 package SummerTrainingGFG.Queue;
 
-import java.util.Queue;
-
 /**
  * @author Vishal Singh
  */

@@ -26,7 +26,7 @@ class PairSum{
         return false;
     }
 }
-class TripletSum extends PairSum{
+class  TripletSum extends PairSum{
     /*
      * Find triplet in an array which gives sum X*/
     boolean findTripletSumExistence(int[] arr,int sum){
