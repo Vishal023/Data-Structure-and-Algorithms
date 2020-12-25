@@ -78,7 +78,7 @@ public class LevelOrderTraversal {
                     q.add(curr.right);
                 }
             }
-            System.out.println("");
+            System.out.println();
         }
     }
     public static void main(String[] args) {
