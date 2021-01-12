@@ -1,18 +1,15 @@
 package SummerTrainingGFG.BinarySearchTree;
 
-import org.w3c.dom.Node;
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 /**
  * @author Vishal Singh
- * 27-12-2020
- * @status Not Done
+ * 10-01-2021
  */
 
-public class SmallerOnRight {
+public class LevelOrderToBST {
     static final boolean multipleTestCase = true;
 
     public static void main(String[] args) throws Exception {
@@ -24,61 +21,69 @@ public class SmallerOnRight {
                 int[] arr = new int[n];
                 for (int i = 0; i < n; i++) {
                     arr[i] = fr.nextInt();
-
                 }
-                SmallerOnRight tree = new SmallerOnRight();
-                for (int data :
-                        arr) {
-                    tree.insert(data);
-                }
-                System.out.println(tree.getMaxSmallerOnRight());
+                Node tree = constructBST(arr);
+                preorder(tree);
+                System.out.println();
             }
         } catch (Exception e) {
         } finally {
         }
     }
 
-    Node root;
-    int maxSmallerOnRight = Integer.MIN_VALUE;
-
-    static class Node {
-        int data;
-        Node left, right;
-        int count;
-        Node(int data) {
-            this.data = data;
-            this.count = 0;
+    static Node constructBST(int[] arr) {
+        Node root = null;
+        for (int j : arr) {
+            root = levelOrder(root, j);
         }
+        return root;
     }
-
-    void insert(int data) {
-        root = insert(root, data);
-    }
-
-    Node insert(Node root, int data) {
-        if (root == null) {
-            return new Node(data);
+    static Node levelOrder(Node root,int data){
+        if (root == null){
+            root = new Node(data);
+            return root;
         }
-        if (root.data > data){
-            root.count++;
-            root.left = insert(root.left,data);
+        if (data < root.data){
+            root.left = levelOrder(root.left,data);
         }else {
-            root.right = insert(root.right,data);
+            root.right = levelOrder(root.right,data);
         }
         return root;
     }
 
-    int getMaxSmallerOnRight() {
-        return inOrder(root);
+    static class Node {
+        int data;
+        Node left;
+        Node right;
+        Node(int data) {
+            this.data = data;
+        }
+    }
+    public static void preorder(Node root){
+        if (root!=null){
+            System.out.print(root.data + " ");
+            preorder(root.left);
+            preorder(root.right);
+        }
     }
 
-    int inOrder(Node root) {
-        if (root != null) {
-            inOrder(root.left);
-            maxSmallerOnRight =  Math.max(maxSmallerOnRight,root.count);
-            inOrder(root.right);
+
+    static int min(int... values) {
+        int res = Integer.MAX_VALUE;
+        for (int x :
+                values) {
+            res = Math.min(x, res);
         }
-        return maxSmallerOnRight;
+        return res;
+    }
+
+    static int max(int... values) {
+        int res = Integer.MIN_VALUE;
+        for (int x :
+                values) {
+            res = Math.max(x, res);
+        }
+        return res;
     }
 
     static class FastReader {
