@@ -187,5 +187,62 @@ Java Solution for Data Structures and Algorithms.
 * [Stock Span](Stack/StockSpan.java)
 * [Two Stacks In An Array](Stack/TwoStacksInAnArray.java)
 
+<b>15. [QUEUE](Queue)</b>
+* [Generate Number Given Digits](Queue/GenerateNumberGivenDigits.java)
+* [Queue As Array](Queue/QueueAsArray.java)
+* [Queue Implementation](Queue/QueueImplementation.java)
+* [Reverse Queue](Queue/ReverseQueue.java)
+* [Stack Using Queue](Queue/StackUsingQueue.java)
+
+<b>16 [DEQUE](Deque)</b>
+* [Implementaion Deque](Deque/ImplementaionDeque.java)
+* [Max All Subarray Size K](Deque/MaxAllSubarraySizeK.java)
+
+<b>17 [TREE](Tree)</b>
+* [Binary Tree Implementation](Tree/BinaryTreeImplementation.java)
+* [Height Of Binary Tree](Tree/HeightOfBinaryTree.java)
+* [Level Order Traversal](Tree/LevelOrderTraversal.java)
+* [Lowest Common Ancestor](Tree/LowestCommonAncestor.java)
+* [Max In Binary Tree](Tree/MaxInBinaryTree.java)
+* [Print Left View](Tree/PrintLeftView.java)
+* [Print Node At Dist K](Tree/PrintNodeAtDistK.java)
+* [Size Of Binary Tree](Tree/SizeOfBinaryTree.java)
+* [Tree Traversal](Tree/TreeTraversal.java)
+
+<b>18 [BINARYSEARCHTREE](BinarySearchTree)</b>
+* [B S T](BinarySearchTree/BST.java)
+* [B S T Element In Range](BinarySearchTree/BSTElementInRange.java)
+* [B S T Nodes In Range](BinarySearchTree/BSTNodesInRange.java)
+* [Check B S T](BinarySearchTree/CheckBST.java)
+* [Closest Element In B S T](BinarySearchTree/ClosestElementInBST.java)
+* [Fix Two Nodes](BinarySearchTree/FixTwoNodes.java)
+* [Floor In B S T](BinarySearchTree/FloorInBST.java)
+* [Level Order To B S T](BinarySearchTree/LevelOrderToBST.java)
+* [Lowest Common Ancestor](BinarySearchTree/LowestCommonAncestor.java)
+* [Pair Sum B S T](BinarySearchTree/PairSumBST.java)
+* [Top View](BinarySearchTree/TopView.java)
+* [Vertical Traversal](BinarySearchTree/VerticalTraversal.java)
+
+<b>19 [HEAP](Heap)</b>
+* [Heap](Heap/Heap.java)
+* [Heap Sort](Heap/HeapSort.java)
+* [K Closest Element](Heap/KClosestElement.java)
+* [Kth Largest In A Stream](Heap/KthLargestInAStream.java)
+* [Median Of Stream](Heap/MedianOfStream.java)
+* [Merge K Sorted Arrays](Heap/MergeKSortedArrays.java)
+* [Print K Largest Elements](Heap/PrintKLargestElements.java)
+* [Priority Queue Demo](Heap/PriorityQueueDemo.java)
+* [Purchasing Max Items](Heap/PurchasingMaxItems.java)
+* [Sort K Sorted Array](Heap/SortKSortedArray.java)
+
+<b>20 [GRAPH](Graph)</b>
+* [Graph](Graph/Graph.java)
+* [Shortest Path Unweighted Graph](Graph/ShortestPathUnweightedGraph.java)
+
+<b>21 [DYNAMICPROGRAMMING](DynamicProgramming)</b>
+* [Fibonacci Number](DynamicProgramming/FibonacciNumber.java)
+* [Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.java)
+
+
 ### `NOTE: Raise an issue if any program doesn't work.`
 ### `More Topics to be added soon`
