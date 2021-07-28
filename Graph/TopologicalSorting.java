@@ -1,8 +1,8 @@
 package SummerTrainingGFG.Graph;
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Queue;
 
 /**
  * @author Vishal Singh
@@ -10,12 +10,108 @@ import java.io.*;
  * Did you know extra semicolons are not error in java?
  * Fork/Star the repo if you didn't
  */
-
-;   ;  ;;;;;   ;;;;;   ;;  ;;  ;;;;;;  ;;
-;   ;    ;     ;;      ;;  ;;  ;;  ;;  ;;
-;   ;    ;     ;;;;;   ;;;;;;  ;;;;;;  ;;
- ; ;     ;        ;;   ;;  ;;  ;;  ;;  ;;
-  ;    ;;;;;   ;;;;;   ;;  ;;  ;;  ;;  ;;;;;;;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
 
 public class TopologicalSorting {
     public static void addEdge(ArrayList<ArrayList<Integer>> graph, int s,int d){

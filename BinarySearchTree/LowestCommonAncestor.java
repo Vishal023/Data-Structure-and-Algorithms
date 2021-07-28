@@ -1,11 +1,5 @@
 package SummerTrainingGFG.BinarySearchTree;
 
-import org.w3c.dom.Node;
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
 /**
  * @author Vishal Singh
  * 25-12-2020

@@ -1,7 +1,6 @@
 package SummerTrainingGFG.Graph;
 
 import java.util.*;
-import java.lang.*;
 
 /**
  * @author Vishal Singh

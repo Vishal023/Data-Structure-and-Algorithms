@@ -1,8 +1,7 @@
 package SummerTrainingGFG.Heap;
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.util.Arrays;
+import java.util.PriorityQueue;
 
 /**
  * @author Vishal Singh

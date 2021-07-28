@@ -1,7 +1,6 @@
 package SummerTrainingGFG.BinarySearchTree;
 
-import java.util.*;
-import java.lang.*;
+import java.util.ArrayList;
 
 /**
  * @author Vishal Singh

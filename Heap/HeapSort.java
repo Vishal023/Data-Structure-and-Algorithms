@@ -1,7 +1,6 @@
 package SummerTrainingGFG.Heap;
 
-import java.util.*;
-import java.io.*;
+import java.util.Arrays;
 
 class MinHeap {
     private int[] arr;

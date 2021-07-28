@@ -1,12 +1,9 @@
 package SummerTrainingGFG.Heap;
 
-import CompetitvePractive450Set.Array;
-import kotlin.Triple;
-import org.jetbrains.annotations.NotNull;
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.PriorityQueue;
 
 /**
  * @author Vishal Singh
