@@ -5,7 +5,7 @@ Java Solution for Data Structures and Algorithms.
     Fork the Repo if you want to contribute to it
     
     USING THE CODE
-    BEFORE RUNNING ANY OF THE CODE REMOVE THIS FROM THE TOP OF THE CODE
+    BEFORE RUNNING ANY OF THE CODE REMOVE (package) THIS FROM THE TOP OF THE CODE
     package SummerTrainingGFG.______;
     
 ## CONTENT
